@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=JapneetRajput&label=Profile%20views&color=0e75b6&style=flat&label=PROFILE+VIEWS" alt="Japneet Rajput" /> </p>
 
-- ⚡  **[PortFolio Website](japneetrajput.github.io)**
+- ⚡  **[PortFolio Website](https://japneetrajput.github.io)**
 
 -  🔭 I’m currently working on **React.js**
 
